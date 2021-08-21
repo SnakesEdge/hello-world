@@ -1,2 +1,4 @@
 # hello-world
-Standard Repository
+
+
+Hello, just learning coding
